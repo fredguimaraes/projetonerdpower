@@ -9,7 +9,7 @@ O sistema de código aberto, permite a contribuição e desenvolvimento de módu
 utilização dos códigos aqui desenvolvidos para construção de sub-redes.
 
 
-O sistema será desenvolvido em linguagem PHP (Provavelmente com Framework Codeigniter), 
+O sistema será desenvolvido em linguagem PHP (Framework a ser definido), 
 base de dados Mysql, HTML5 e CSS3. Javascript e suas bibliotecas derivadas são nativos de qualquer
 sistema web e serão necessários para o desenvolvimento.
 
@@ -20,17 +20,10 @@ Código Fonte da Skynerd
 - Disponível a partir do dia 08/02/2014 no link: www.jovemnerd.com.br/skynerd/opensource
   > Grandiosa cortesia e generosidade por parte de Alexandre Ottoni, Deive Pazos e Guilherme Camillo
 
-
-Nerdrix - A matrix dos nerds (Sugestão)
+Etapas do desenvolvimento:
 ================
 
-O projeto desenvolvido nesse repositório já tem nome e endereço sugeridos!! www.nerdrix.com.br (já registrado
-para segurarmos o nome!)
-A Nerdrix seguirá as seguintes etapas, que podem sofrer
-alterações de acordo com as necessidades observadas ao longo do desenvolvimento do projeto.
-
-
-ETAPAS
+*FASE ATUAL: Aguardando codigo fonte da skynerd para avaliação.*
 
 1ª Etapa: Construção da equipe base de desenvolvimento. Precisamos de Nerds programadores, designers, ou simplesmente nerds, que possam opinar, testar, e sugerir melhorias.
 
@@ -42,9 +35,9 @@ ETAPAS
 de contribuidores).
 
 
+FUNCIONALIDADES BASE:
 ================
 
-Funcionalidades BASE:
 
 - Desenvolvimento do sistema de cadastro dos nerds (básico)
   > Dados pessoais e de contato <
@@ -60,10 +53,12 @@ Funcionalidades BASE:
   Chat privado entre alianças(Nerd x Nerd);
   *Grupos de chat?!*
 
-obs: todos os cadastros com CRUD básico.
+
 
 Frentes de desenvolvimento
 ================
+Nerds com diversas especialidades desenvolvendo o projeto com as
+tecnologias com as quais podem contribuir.
 
 - Ruby on Rails
 https://github.com/nandosousafr/nerd-power-rails
@@ -71,3 +66,12 @@ https://github.com/nandosousafr/nerd-power-rails
 
 - Node.js
 https://github.com/btripoloni/ProjectoNerdPower-Node
+
+
+Nerdrix? - A matrix dos nerds (Sugestão)
+================
+
+O projeto desenvolvido nesse repositório já tem nome e endereço sugeridos!! www.nerdrix.com.br (já registrado
+para segurarmos o nome!)
+A Nerdrix seguirá as seguintes etapas, que podem sofrer
+alterações de acordo com as necessidades observadas ao longo do desenvolvimento do projeto.
